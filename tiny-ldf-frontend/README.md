@@ -1,4 +1,4 @@
-#How we made it : 
+# How we made it : 
 ## Tiny LDF Frontend
 
 This is the frontend application for the Tiny Linked Data Fragment (LDF) server, implemented using React. The application allows users to:
