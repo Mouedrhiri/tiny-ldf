@@ -34,7 +34,7 @@ Below is a diagram illustrating the RDF structure of the data:
 
 ![RDF Diagram](./rdf-grapher.png)
 
-*Note: Replace the link above with the actual path to your RDF image or visualization.*
+
 
 ## Project Team
 
