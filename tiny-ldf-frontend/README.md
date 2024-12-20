@@ -1,4 +1,5 @@
-# Tiny LDF Frontend
+#How we made it : 
+## Tiny LDF Frontend
 
 This is the frontend application for the Tiny Linked Data Fragment (LDF) server, implemented using React. The application allows users to:
 
@@ -18,7 +19,7 @@ The frontend is deployed on Google Cloud Storage and communicates with the backe
 
 ## Live Demo
 
-The frontend is deployed at: [Frontend Live URL](https://storage.googleapis.com/tiny-ldf-frontend/index.html)
+The frontend is deployed at: [Frontend Live URL](https://storage.googleapis.com/tiny-ldf-fe/index.html)
 
 ## Prerequisites
 
@@ -137,7 +138,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Authors
 
-- [Your Name](https://github.com/your-username)
+- Mohammed OUEDRHIRI
+- Achraf RHOULAM
+- Anas MASROUR
 
 ---
 
