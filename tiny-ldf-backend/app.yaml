@@ -1,0 +1,10 @@
+runtime: java17
+env: standard
+instance_class: F2
+
+env_variables:
+  GOOGLE_APPLICATION_CREDENTIALS: "tiny-ldf-backend-e98996abdca5.json"
+
+handlers:
+  - url: /.*
+    script: auto

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tiny-ldf-frontend/static/css/main.ca67ef22.css",
+    "main.js": "/tiny-ldf-frontend/static/js/main.318d3d25.js",
+    "static/js/488.af104311.chunk.js": "/tiny-ldf-frontend/static/js/488.af104311.chunk.js",
+    "index.html": "/tiny-ldf-frontend/index.html",
+    "main.ca67ef22.css.map": "/tiny-ldf-frontend/static/css/main.ca67ef22.css.map",
+    "main.318d3d25.js.map": "/tiny-ldf-frontend/static/js/main.318d3d25.js.map",
+    "488.af104311.chunk.js.map": "/tiny-ldf-frontend/static/js/488.af104311.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca67ef22.css",
+    "static/js/main.318d3d25.js"
+  ]
+}
